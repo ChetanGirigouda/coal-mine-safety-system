@@ -1,0 +1,31 @@
+Here is the connection information in a table format:
+
+| **Component**             | **Pin**         | **Connect to Arduino**     | **Notes**                          |
+|---------------------------|-----------------|----------------------------|------------------------------------|
+| **MQ2 Gas Sensor**        | VCC            | 5V                         | Power supply                      |
+  
+|                           | GND            | GND                        | Common ground                     |
+|                           | AO (Analog)    | A0                         | For analog gas concentration data |
+|                           | DO (Digital)   | Any digital pin (Optional) | For threshold-based alerts        |
+  
+| **MQ7 Gas Sensor**        | VCC            | 5V                         | Power supply                      |
+|                           | GND            | GND                        | Common ground                     |
+|                           | AO (Analog)    | A1                         | For analog gas concentration data |
+|                           | DO (Digital)   | Any digital pin (Optional) | For threshold-based alerts        |
+  
+| **DHT11 (Temp/Humidity)** | VCC            | 5V                         | Power supply                      |
+|                           | GND            | GND                        | Common ground                     |
+|                           | DATA           | D2                         | Use a 4.7kΩ pull-up resistor      |
+  
+| **Buzzer**                | + (Positive)   | Any digital pin (e.g., D3) | Active buzzer for alert sound     |
+|                           | - (Negative)   | GND                        | Common ground                     |
+  
+| **I2C 16x2 LCD Display**  | VCC            | 5V                         | Power supply                      |
+|                           | GND            | GND                        | Common ground                     |
+|                           | SDA            | A4                         | I2C data line                     |
+|                           | SCL            | A5                         | I2C clock line                    |
+  
+| **TP4056 (Battery Module)**| OUT+          | Arduino VIN (or 5V pin)    | Provides power to Arduino         |
+|                           | OUT-          | GND                        | Common ground                     |
+|                           | B+            | Positive of Lithium Battery | Connect two 3.7V batteries in parallel or series |
+|                           | B-            | Negative of Lithium Battery | Ensure correct polarity           |
