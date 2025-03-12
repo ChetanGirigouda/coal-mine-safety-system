@@ -3,7 +3,7 @@
 
 This project is a smart helmet system designed to monitor hazardous conditions in coal mines using sensors and provide real-time alerts to ensure worker safety.
 
-📊 Features
+# 📊 Features
 
 Real-time monitoring of toxic gases (CO, methane).
 
@@ -13,9 +13,9 @@ Alert system using a buzzer and LCD display.
 
 Wireless transmission of critical data.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-Hardware:
+# Hardware:
 
 Arduino Uno
 
@@ -41,7 +41,7 @@ Software:
 
 Arduino IDE
 
-📂 Project Structure
+# 📂 Project Structure
 
 coal-mine-safety-system/
 ├── code/                 # Arduino code
@@ -50,7 +50,7 @@ coal-mine-safety-system/
 │    └── project-report.pdf
 └── images/               # Circuit diagrams and screenshots
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 Clone this repository:
 
@@ -63,11 +63,11 @@ Connect the sensors and components as per the circuit diagram.
 
 Power the system and observe real-time alerts on the LCD display and buzzer.
 
-📸 Project Demo
+# 📸 Project Demo
 
 Include images or GIFs demonstrating the system in action.
 
-📧 Contact
+# 📧 Contact
 
 Feel free to reach out for collaboration or queries:
 
