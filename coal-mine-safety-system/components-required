@@ -1,1 +1,25 @@
+Arduino Uno
+
+MQ7 sensor (Carbon Monoxide detection)
+
+MQ2 sensor (Methane and flammable gases)
+
+DHT11 sensor (Temperature and humidity)
+
+I2C 16x2 LCD display
+
+TP4056 module (Battery charging)
+
+Two 3.7V batteries
+
+Buzzer
+
+Mini breadboard
+
+Jumper wires
+
+Software:
+
+Arduino IDE
+
 
