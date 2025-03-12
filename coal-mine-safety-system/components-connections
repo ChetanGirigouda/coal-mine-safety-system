@@ -1,7 +1,7 @@
 Here is the connection information in a table format:
 
-| **Component**             | **Pin**         | **Connect to Arduino**     | **Notes**                          |
-|---------------------------|-----------------|----------------------------|------------------------------------|
+| **Component**             | **Pin**         | **Connect to Arduino**     | **Notes**                        |
+|---------------------------|-----------------|----------------------------|----------------------------------|
 | **MQ2 Gas Sensor**        | VCC            | 5V                         | Power supply                      |
   
 |                           | GND            | GND                        | Common ground                     |
