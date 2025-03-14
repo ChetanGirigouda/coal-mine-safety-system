@@ -1,5 +1,5 @@
 # coal-mine-safety-system
-🛡️ Coal Mine Safety Monitoring and Alerting System with Smart Helmet
+### Coal Mine Safety Monitoring and Alerting System with Smart Helmet
 
 This project is a smart helmet system designed to monitor hazardous conditions in coal mines using sensors and provide real-time alerts to ensure worker safety.
 
