@@ -54,7 +54,8 @@ coal-mine-safety-system/
 
 Clone this repository:
 
-git clone (https://github.com/ChetanGirigouda/coal-mine-safety-system)
+git clone  [https://github.com/yourusername/temperature-fan-control.git
+cd temperature-fan-control
 
 Upload the code to your Arduino Uno using the Arduino IDE.
 
